@@ -1,4 +1,4 @@
-## Obsidian Daily Stats
+## Obsidian Dan Daily Stats
 
 This is a daily word count plugin for Obsidian (https://obsidian.md). You can see today's word count in the bottom right corner of your screen, and also see the historical logs in a right panel view akin to Github's contribution graph.
 
