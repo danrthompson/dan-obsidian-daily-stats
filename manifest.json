@@ -4,7 +4,7 @@
 	"version": "1.0.5",
 	"minAppVersion": "0.10.12",
 	"description": "Track your daily word count across all notes in your vault.",
-	"author": "Dhruvik Parikh",
-	"authorUrl": "https://github.com/dhruvik7",
+	"author": "Dan Thompson",
+	"authorUrl": "https://github.com/danrthompson",
 	"isDesktopOnly": false
 }
